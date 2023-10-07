@@ -1,0 +1,13 @@
+Task 1.1 (Data Understanding):
+	- data quality
+		- Lets think about it
+		- Last 2 columns  
+	- the distribution of the variables
+		- 
+	- the pairwise correlations
+		-
+
+Others:
+	- join other tables
+	- drop duplicates and unuseful attributes
+	- search for correlations
