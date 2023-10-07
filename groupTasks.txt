@@ -11,3 +11,9 @@ Others:
 	- join other tables
 	- drop duplicates and unuseful attributes
 	- search for correlations
+
+TODOS:
+- X ---- Join delle tabelle
+- Le colonne min_age, avg_age, max_age hanno degli int con valori fuori norma, rimuovere
+- Le colonne 15,16,17 hanno un problema di tipi, investigare
+- Usare unique per capire quali colonne hanno dati da ripulire (es. inc_char2: Suicide^)
