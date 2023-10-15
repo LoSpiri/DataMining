@@ -17,3 +17,24 @@ TODOS:
 - Le colonne min_age, avg_age, max_age hanno degli int con valori fuori norma, rimuovere
 - Le colonne 15,16,17 hanno un problema di tipi, investigare
 - Usare unique per capire quali colonne hanno dati da ripulire (es. inc_char2: Suicide^)
+
+-----------------------------------------------------------
+
+Outliers
+	- cosa metterci?
+	- come rilevarli programmaticamente?
+Angelo - City or county va sanato (forse)
+Angelo - Clustering delle coordinate
+Spiri 	XX- Pulizia dati mixed
+		XX- int -> float
+		- pulire inserendo media
+		- scegliere threshold: 100
+			- spiegare verbalmente
+Spiri 	XX- Togliere whitespaces a tutto
+		- usare regex
+Spiri 	- Arrotondare i float dove necessario
+Spiri 	- Controllare che le date sia vere date
+Domande prof:
+	- cosa mettere per outlier? Mean? …
+	- come trasformare? 
+
