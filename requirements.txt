@@ -1,2 +1,4 @@
 THIS DOCUMENT GATHERS ALL THE NON STANDARD LIBRARIES:
 pydotplus
+mlxtend
+scikit-plot
