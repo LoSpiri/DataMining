@@ -1,4 +1,12 @@
 THIS DOCUMENT GATHERS ALL THE NON STANDARD LIBRARIES:
+
+seaborn
+
 pydotplus
 mlxtend
 scikit-plot
+
+TIMESERIES:
+tslearn
+tensorflow
+matrixprofile-ts
