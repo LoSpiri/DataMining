@@ -1,6 +1,9 @@
 THIS DOCUMENT GATHERS ALL THE NON STANDARD LIBRARIES:
 
 seaborn
+plotly
+pyclustering
+nbformat
 
 pydotplus
 mlxtend
