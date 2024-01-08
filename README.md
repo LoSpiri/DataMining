@@ -1,7 +1,7 @@
 # Data Mining: Master's Degree Exam
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://gifdb.com/images/high/going-for-mining-1w8cmnpq9lhhrw7i.gif">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/LoSpiri/DataMining/blob/master/simpson_mining.gif">
 </div>
 
 </br>
